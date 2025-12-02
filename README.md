@@ -50,8 +50,7 @@ The goal of the project was to design a **financial modelling and decision-suppo
 
 ---
 
-## 📁 Suggested Folder Structure
-
+## 📁 Contents
 ```bash
 powerbi-excel-dashboards/
 ├── README.md
