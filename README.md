@@ -50,22 +50,6 @@ The goal of the project was to design a **financial modelling and decision-suppo
 
 ---
 
-## 📁 Contents
-```bash
-powerbi-excel-dashboards/
-├── README.md
-├── megawidget-international/
-│   ├── MegaWidget_International_Assignment.xlsm
-│   ├── dashboard_screenshots/
-│   │   ├── overview.png
-│   │   ├── financials.png
-│   │   └── workforce.png
-│   └── documentation.md   
-└── other-dashboards/      
-```
-
----
-
 ## 📬 Contact
 
 Questions about the project or dataset?  
